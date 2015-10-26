@@ -25,12 +25,12 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "jsdom": "3",
-    "requirejs": "~2.1.14",
-    "sinon": "1"
+    "jsdom": "^7.0.2",
+    "requirejs": "~2.1.20",
+    "sinon": "^1.17.1"
   },
   "devDependencies": {
-    "mocha": "2.2.4",
-    "istanbul": "~0.3"
+    "mocha": "^2.3.3",
+    "istanbul": "^0.4.0"
   }
 }
